@@ -4,23 +4,43 @@
 
 ![Nithin's GitHub Banner](1716477666405.jpg)
 
----
+### 👋 About Me  
 
-### 🚀 About Me
+Hello there! I'm an **Electronics and Communication Engineer** with a passion for **hardware design**, **embedded systems**, and **innovative projects**. As a part-time project maker and technology enthusiast, I love bridging the gap between ideas and reality.  
 
+#### 🚀 What I Do:  
+- Design and develop **custom PCBs** for various applications.  
+- Create **IoT devices** and **embedded systems** using platforms like **Arduino**, **ESP32**, and **NodeMCU**.  
+- Work on **DIY electronics projects**, from **NFC-enabled tools** to **DC-to-AC inverters**.  
 
+#### 🔧 Skills:  
+- **PCB Design:** Hands-on experience with tools like EasyEDA.  
+- **Programming:** Proficient in C/C++, Python, and Arduino IDE.  
+- **Circuit Debugging:** Passionate about troubleshooting and optimizing electronic designs.  
+- **Prototyping:** Turning concepts into functional hardware.  
+
+#### 🌟 Current Projects (work in progress):   
+- **WayPointX**: An offline GPS-based navigation device with Wi-Fi hosting.  
+- **Kilo-Byte**: A desktop pet powered by ESP32, blending creativity and tech.  
+
+#### 🛠️ Tools & Platforms:  
+- **Hardware:** Arduino, ESP32, NodeMCU.  
+- **Design Tools:** EasyEDA, Tinkercad.  
+- **Collaboration:** GitHub, Git, and open-source projects.  
+
+#### 📚 Learning & Mentoring:  
+I'm always eager to learn new technologies and share knowledge. I've conducted hands-on sessions on **PCB design** and **manufacturing**, empowering others to create their own circuits and projects.  
+
+#### 🎯 Vision:  
+To innovate and contribute to meaningful projects that make technology more accessible and impactful.  
+
+Let's build something amazing together! 🌐✨  
 
 ---
 
 ### 🔧 Technologies & Tools
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
----
-
-<h3 align="left">🛠 Language and tools</h3>
-
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" alt="firebase logo"  />
@@ -64,17 +84,23 @@
 ---
 
 ### 🌟 Featured Projects
-.
+- [MiniVieNO custom arduino uno r3](https://github.com/nithinmathewjoji/MiniVieNO-Custom-Arduino-R3-from-scratch)
+- [PCB-business-card-with-NFC](https://github.com/nithinmathewjoji/PCB-business-card-with-NFC)
+- [5v-li-ion-lipo-battery-charger-using-MCP73833](https://github.com/nithinmathewjoji/5v-li-ion-lipo-battery-charger-using-MCP73833-)
 
 ---
 
 ### 🏆 Achievements
 
+- 2023 Keraleeyam Fest KTU University Student Representative (hardware project)
+- KSCSTE TechFest IIT PALAKKAD Winner, best hardware Project (SILVER)
 
----
 
 ### 🌱 Currently Learning
 
+- Professional pcb design and advanced circuit designs
+- Embedded systems and hardware design
+- CAD (FUSSION 360) 
 
 ---
 
