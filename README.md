@@ -86,7 +86,7 @@
 
 ### 📫 Let's Connect
 - Email: <nithinmathewjoji@gmail.com>
-- Portfolio Website: ![personal web page](https://nithinmathewjoji.github.io/portfolio-new/)
+- Portfolio Website: [personal web page](https://nithinmathewjoji.github.io/portfolio-new/)
 
 ###
 
