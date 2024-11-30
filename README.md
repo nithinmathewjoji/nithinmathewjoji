@@ -25,8 +25,8 @@ Hello there! I'm an **Electronics and Communication Engineer** with a passion fo
 
 #### 🛠️ Tools & Platforms:  
 - **Hardware:** Arduino, ESP32, NodeMCU.  
-- **Design Tools:** EasyEDA, Tinkercad.  
-- **Collaboration:** GitHub, Git, and open-source projects.  
+- **Design Tools:** EasyEDA, KiCAD, FUSSION 360.  
+- **Collaboration:** GitHub, Git, and open-source projects, [Instructables](https://www.instructables.com/member/The%20PCB%20guy-me_self_nithin/).  
 
 #### 📚 Learning & Mentoring:  
 I'm always eager to learn new technologies and share knowledge. I've conducted hands-on sessions on **PCB design** and **manufacturing**, empowering others to create their own circuits and projects.  
