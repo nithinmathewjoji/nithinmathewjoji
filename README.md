@@ -85,6 +85,7 @@ Let's build something amazing together! 🌐✨
 
 ### 🌟 Featured Projects
 - [MiniVieNO custom arduino uno r3](https://github.com/nithinmathewjoji/MiniVieNO-Custom-Arduino-R3-from-scratch)
+- [LiteWave portable single board inverter](https://github.com/nithinmathewjoji/LiteWave-full-sine-wav-inverter)
 - [PCB-business-card-with-NFC](https://github.com/nithinmathewjoji/PCB-business-card-with-NFC)
 - [5v-li-ion-lipo-battery-charger-using-MCP73833](https://github.com/nithinmathewjoji/5v-li-ion-lipo-battery-charger-using-MCP73833-)
 
