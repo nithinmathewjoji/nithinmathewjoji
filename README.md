@@ -21,7 +21,8 @@ Hello there! I'm an **Electronics and Communication Engineer** with a passion fo
 
 #### 🌟 Current Projects (work in progress):   
 - **WayPointX**: An offline GPS-based navigation device with Wi-Fi hosting.  
-- **Kilo-Byte**: A desktop pet powered by ESP32, blending creativity and tech.  
+- **Kilo-Byte**: A desktop pet powered by ESP32, blending creativity and tech.
+- **Jarvis , The iron Man assistant**: yes if tony stark can build then why not me ?.
 
 #### 🛠️ Tools & Platforms:  
 - **Hardware:** Arduino, ESP32, NodeMCU.  
